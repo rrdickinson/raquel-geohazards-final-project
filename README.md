@@ -1,2 +1,6 @@
 # raquel-geohazards-final-project
-This repository is analyzing the tsunamis caused by the Valdivia earthquake in 3 different locations.
+This repository is analyzing the tsunamis caused by the Valdivia earthquake in 4 different locations.
+
+## Using this repository:
+- To find the data set used, go to data. There is only one data file.
+- To find the code used to analyze the data, go to notebooks. There is only one notebook, which contains all the code with comments
